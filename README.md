@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TranHVLoc
+- 👋 Hi, I’m @Loc Tran 
 - 👀 I’m interested in watching movies, playing sport, designing and discovering stuffs
 - 🌱 I’m currently learning C++, Python, HTML and CSS 
 - 💞️ I’m looking to collaborate on creating a useful website or mobile app
