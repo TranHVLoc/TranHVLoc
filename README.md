@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Loc Tran 
-- 👀 I’m interested in watching movies, playing sport, designing and discovering stuffs
-- 🌱 I’m currently learning C++, Java, MatLab, Python, HTML and CSS 
-- 💞️ I’m looking to collaborate on creating a useful website, mobile app, and Machine Learning - Deep Learning model
-- 📫 You can reach me by [this link](https://github.com/TranHVLoc)
+- 👀 I love discovering new technology, designing, learning new things, and making beautifully cool projects
+- 🌱 My tech stack includes Java, Python, C++, HTML - CSS - Javascrip, SQL/MySQL, Fullstack Development, Wordpress
+- 💞️ I’m looking to collaborate on creating amazing websites, mobile apps, and Machine Learning - Deep Learning models
+- 📫 You can reach out to me by [this link](https://www.linkedin.com/in/loc-tran-59vn/)
 
 <!---
 TranHVLoc/TranHVLoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
