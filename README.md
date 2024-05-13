@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Loc Tran 
-- 👀 I love discovering new technology, designing, learning new things, and making beautifully cool projects
-- 🌱 My tech stack includes Java, Python, C++, HTML - CSS - Javascrip, SQL/MySQL, Fullstack Development, Wordpress
-- 💞️ I’m looking to collaborate on creating amazing websites, mobile apps, and Machine Learning - Deep Learning models
-- 📫 You can reach out to me by [this link](https://www.linkedin.com/in/loc-tran-59vn/)
-
 <!---
 TranHVLoc/TranHVLoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -25,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Tran+Huu+Vinh+Loc">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Loc+Huu+Vinh+Tran">「 Google Me 」</a>
     <br>
     「 I am a Software Engineer from <b>Vietnam</b> 」
     <br>
@@ -122,9 +116,9 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 ## Top Open Source -
-[![Smart Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=itasks&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Meng-V/smartchatbot)
-[![InsurAI](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=web-projects&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/dominhnhut01/healthcare_insurance_bot)
-[![CineMundo](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=urfolio&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/TranHVLoc/CineMundo)
+[![Smart Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Meng-V&repo=smartchatbot&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/Meng-V/smartchatbot)
+[![InsurAI](https://github-readme-stats.vercel.app/api/pin/?username=dominhnhut01&repo=healthcare_insurance_bot&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/dominhnhut01/healthcare_insurance_bot)
+[![CineMundo](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=CineMundo&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/TranHVLoc/CineMundo)
 [![Loc Tran Readme](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=TranHVLoc&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/TranHVLoc/TranHVLoc)
 
 <p align="left">
