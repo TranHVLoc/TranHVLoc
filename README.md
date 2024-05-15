@@ -119,7 +119,7 @@ You can click the Preview link to take a look at your changes.
 [![Smart Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Meng-V&repo=smartchatbot&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/Meng-V/smartchatbot)
 [![InsurAI](https://github-readme-stats.vercel.app/api/pin/?username=dominhnhut01&repo=healthcare_insurance_bot&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/dominhnhut01/healthcare_insurance_bot)
 [![CineMundo](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=CineMundo&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/TranHVLoc/CineMundo)
-[![Loc Tran Readme](https://github-readme-stats.vercel.app/api/pin/?username=TranHVLoc&repo=TranHVLoc&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/TranHVLoc/TranHVLoc)
+[![My-Kalory](https://github-readme-stats.vercel.app/api/pin/?username=dominhnhut01&repo=revolutionuc2023&border_color=3fbfbf&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=3fbfbf)](https://github.com/dominhnhut01/revolutionuc2023)
 
 <p align="left">
   <a href="https://github.com/TranHVLoc?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
