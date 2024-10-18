@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
   <samp>
     <a href="https://www.google.com/search?q=Loc+Huu+Vinh+Tran">「 Google Me 」</a>
     <br>
-    「 I am a Software Engineer from <b>Vietnam</b> 」
+    「 I am a <b>Software Engineer</b> 」
     <br>
     <br>
   </samp>
