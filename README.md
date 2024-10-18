@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Intro  -->
 <h3 align="center">
         <samp>Hey There!, I am
-                <b><a target="_blank" href="https://TranHVLoc.com">Loc Tran</a></b>
+                <b><a target="_blank" href="https://tranhvloc.github.io/portfolio/">Loc Tran</a></b>
         </samp>
 </h3>
 
