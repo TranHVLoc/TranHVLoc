@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
- <a href="https://TranHVLoc.com" target="blank">
+ <a href="https://tranhvloc.github.io/portfolio" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="TranHVLoc" />
  </a>
  <a href="https://www.linkedin.com/in/loc-tran-59vn/" target="_blank">
@@ -37,9 +37,6 @@ You can click the Preview link to take a look at your changes.
  <a href="https://www.instagram.com/vin.lokko/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="TranHVLoc" />
  </a> 
- <a href="https://www.facebook.com/vinhloc.tranhuu/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="TranHVLoc"  />
-  </a> 
 </p>
 <br />
 
