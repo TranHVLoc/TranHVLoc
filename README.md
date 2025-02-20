@@ -128,7 +128,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://github.com/TranHVLoc">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranHVLoc&theme=radical&border=3fbfbf&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TranHVLoc&theme=radical&border=3fbfbf&background=0D1117" alt="Loc's GitHub streak"/>
   </a>
 </p>
 
